@@ -1,2 +1,2 @@
 # Repor-en-la-Nube
-Esto es una practicca de como subir un repositorio en la nube desde git
+Este archivo fue modificado confines de pruebas de aprendizaje desde la terminal git
